@@ -60,3 +60,10 @@ When you start to perform a calculation the screen of the calculator should show
 - Click: Off
 - Screen becomes blank, Off button text changes to On, History is hidden.
 
+### Deliverables
+- Pull Request with Implemented Solution
+- SCSS for look & feel
+- HTML implementation leveraging Twitter Bootstrap 3 & JavaScript leveraging AngularJS
+
+## Questions??
+Post your questions in the issues on this repository or message me.
