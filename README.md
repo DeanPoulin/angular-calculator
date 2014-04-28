@@ -36,7 +36,7 @@ The application has been scaffolded using [yeoman](http://yeoman.io/) to give yo
 
 The UI should look like the screen shot below and should work like a simple desktop calculator.
 
-![Image](../blob/master/mockup.png?raw=true)
+![Image](https://raw.githubusercontent.com/DeanPoulin/angular-calculator/master/mockup.png)
 
 When the web page starts up it is in the off state.
 
